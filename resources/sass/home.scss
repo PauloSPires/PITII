@@ -1,0 +1,15 @@
+.image-home{
+    width: 800px;
+    margin:  0 auto;
+    opacity: .7;
+    height: calc(100% - 55px);
+    z-index: -0;
+    position: absolute;
+    top: 55px;
+}
+
+.btn-home{
+    position: relative;
+    top: calc(100vh - 300px);
+    left: 560px;
+}
