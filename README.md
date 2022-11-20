@@ -5,22 +5,21 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About CUPCAKES
+## CUPCAKES
 
 Projeto de cadastro de cupcakes
 
 
 ## Como iniciar
 
-GIT clone https://github.com/PauloSPires/PITII
-cd PITII
-copy .env.exemple .env
-composer install
-npm install
-npm run prod
-copy null > database.sqlite
-php artisan migrate
-
+-**(GIT clone https://github.com/PauloSPires/PITII)**
+-**(cd PITII)**
+-**(copy .env.exemple .env)**
+-**(composer install)**
+-**(npm install)**
+-**(npm run prod)**
+-**(copy null > database.sqlite)**
+-**(php artisan migrate)**
 
 ## License
 
